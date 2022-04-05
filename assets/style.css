@@ -1,3 +1,5 @@
+
+
 #heading {
     text-align: center;
 }
@@ -11,24 +13,14 @@
     margin-left: 10px;
 }
 
-#gallery {
-    height: 600px;
-}
 
-#paintings {
-    background-color: blue;
-    width: 33%;
-    float: left;
-}
 
-#drawings {
-    background-color: rgb(11, 101, 25);
-    width: 33%;
-    margin: 0 auto;
-}
 
-#tattoo {
-    background-color: crimson;
-    width: 33%;
-    float: right;
-}
+
+
+
+
+
+
+
+
