@@ -1,1 +1,39 @@
+#heading {
+    text-align: center;
+}
 
+#menu {
+    list-style-type: none;
+}
+
+#menu li {
+    float: right;
+    margin-left: 10px;
+}
+
+#gallery h3 {
+    float: left;
+    margin-left: 20px;
+}
+
+#gallery {
+    height: 600px;
+}
+
+#paintings {
+    background-color: blue;
+    width: 33%;
+    float: left;
+}
+
+#drawings {
+    background-color: black;
+    width: 33%;
+    margin: auto;
+}
+
+#tattoo {
+    background-color: crimson;
+    width: 33%;
+    float: right;
+}
