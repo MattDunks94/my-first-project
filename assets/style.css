@@ -20,6 +20,22 @@ img {
     margin-left: 10px;
     width: 95%;
     height: 310px;
+    animation-name: cover-photo;
+    animation-duration: 2.4s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes cover-photo {
+    from {
+        opacity: 0;
+        transform: scale(0.97);
+        
+    }
+
+    to {
+        opacity: 100;
+        transform: scale(1);
+    }
 }
 
 #menu {
@@ -52,6 +68,8 @@ li a {
 .active {
     border-bottom: 1px solid #fff;
 }
+
+
 
 
 
