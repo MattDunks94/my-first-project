@@ -10,10 +10,12 @@ h1, h2 {
     text-transform: uppercase;
     letter-spacing: 3px;
     text-decoration: underline;
+    margin-left: 10px;
 }
 
 #logo {
     border: 4px solid black;
+    border-radius: 5px 5px 0 0;
 }
 
 img {
@@ -47,6 +49,7 @@ img {
     padding: 8px;
     line-height: 35px;
     height: 40px;
+    border-radius: 0 0 5px 5px;
 }
 
 #menu li {
@@ -82,7 +85,7 @@ li a {
     border-bottom: 1px solid #fff;
 }
 
-.about {
+.about-heading {
     width: 100%;
     height: 200px;
     background-color: aqua;
@@ -105,8 +108,8 @@ li a {
 
 .gallery-display {
     display: inline-block;
-    margin: 0px 10px;
-    width: 30%;
+    margin: 0px 5px;
+    width: 32%;
     background-color: aqua;
     padding-top: 20px;
 }
