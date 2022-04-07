@@ -96,7 +96,7 @@ li a {
 }
 
 #gallery {
-    height: 500px;
+    height: 600px;
     background-color: lightblue;
 }
 
@@ -107,15 +107,14 @@ li a {
 
 #gallery-container {
     text-align: center;
-    padding: 10px;
 }
 
 .gallery-display {
     display: inline-block;
     margin: 0px 5px;
-    width: 32%;
+    width: 30%;
     background-color: aqua;
-    padding-top: 20px;
+    padding-top: 0px;
 }
 
 h3 {
@@ -123,20 +122,26 @@ h3 {
     letter-spacing: 4px;
 }
 
+#box-1, #box-2, #box-3 {
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 #box-1 {
-    
+    background-image: url(/assets/images/ghost-cropped.jpg);
 }
 
 #box-2 {
-    
+    background-image: url(/assets/images/dredd-cropped.jpg);
 }
 
 #box-3 {
-    
+    background-image: url(/assets/images/tattoo-flash2-cropped.jpg);
 }
 
 footer {
-    width: 100%;
+
 }
 
 
