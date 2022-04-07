@@ -108,12 +108,12 @@ li a {
 }
 
 h3 {
-    margin: auto;
-    height: inherit;
+    margin: 250px 0;
+    padding: 20px;
     font-size: 140%;
     letter-spacing: 4px;
-    color: black;
-    background-color: green;
+    color: #fff;
+    background-color: rgb(0, 0, 0, 0.7);
 }
 
 #box-1, #box-2, #box-3 {
@@ -121,6 +121,22 @@ h3 {
     height: 550px;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+@keyframes box {
+    from {
+        box-shadow: none;
+    }
+
+    to {
+        box-shadow:  0 10px 8px 5px;
+    }
+}
+
+.gallery-display:hover {
+    animation-name: box;
+    animation-duration: 0.3s;
+    animation-fill-mode: forwards;
 }
 
 #box-1 {
