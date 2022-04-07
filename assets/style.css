@@ -10,7 +10,7 @@ h1, h2 {
     text-transform: uppercase;
     letter-spacing: 3px;
     text-decoration: underline;
-    margin-left: 10px;
+    margin-left: 40px;
 }
 
 #logo {
@@ -91,6 +91,10 @@ li a {
     background-color: aqua;
 }
 
+#about {
+    margin-top: 40px;
+}
+
 #gallery {
     height: 500px;
     background-color: lightblue;
@@ -98,7 +102,7 @@ li a {
 
 #gallery-heading {
     background-color: cadetblue;
-    float: none;
+
 }
 
 #gallery-container {
@@ -131,6 +135,9 @@ h3 {
     
 }
 
+footer {
+    width: 100%;
+}
 
 
 
