@@ -6,7 +6,7 @@ body {
     color: #0a0a0a;
 }
 
-h1, h2 {
+h2 {
     text-transform: uppercase;
     letter-spacing: 3px;
     text-decoration: underline;
