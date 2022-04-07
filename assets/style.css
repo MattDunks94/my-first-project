@@ -113,7 +113,11 @@ h3 {
     font-size: 140%;
     letter-spacing: 4px;
     color: #fff;
-    background-color: rgb(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+h3:hover {
+   color: rgb(210, 3, 3);
 }
 
 #box-1, #box-2, #box-3 {
@@ -129,7 +133,7 @@ h3 {
     }
 
     to {
-        box-shadow:  0 10px 8px 5px;
+        box-shadow:  0 5px 10px 5px black;
     }
 }
 
