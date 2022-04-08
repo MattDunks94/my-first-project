@@ -167,10 +167,7 @@ h3:hover {
 }
 
 footer {
-    height: 50px;
-    padding: 20px;
-    margin-top: 0px;
-    margin-bottom: 30px;
+    margin-top: 40px;
 }
 
 footer ul {
@@ -188,12 +185,15 @@ footer ul {
     padding: 10px;
 }
 
-#logo {
-    height: 100px;
-    width: 33%;
-    float: right;
-    position: relative;
-    left: 130px;
-    bottom: 80px;
-    transform: scale(0.3);
+#copyright {
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+    background-color: #0a0a0a;
+    padding: 2px 0;
 }
+
+#logo {
+    transform: scale(0.2);
+}
+
