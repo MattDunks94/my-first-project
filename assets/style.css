@@ -133,7 +133,6 @@ h3:hover {
 }
 
 #box-1, #box-2, #box-3 {
-    position: relative;
     height: 550px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -208,17 +207,20 @@ footer ul {
     transform: scale(0.2);
 }
 
-.paintings-container {
+.paintings-container { 
     background-color: aqua;
-    display: grid;
-    grid-template-columns: auto auto auto;
-    margin: 20px 50px;
+
 }
 
-.grid-item {
-    padding: 20px;
-    border: 2px solid black;
-    text-align: center;
+.paintings-container div {
+    width: 30%;
+    float: left;
     margin: 10px;
 }
+
+.paintings-container img {
+    width: 100%;
+}
+
+
 
