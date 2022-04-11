@@ -87,7 +87,7 @@ li a {
 }
 
 #about {
-    height: 210px;
+    height: 230px;
 }
 
 p {
@@ -207,25 +207,23 @@ footer ul {
     transform: scale(0.2);
 }
 
-#painting-display {
-    background-color: aqua;
-
-}
-
-.paintings-container { 
+.paintings-display { 
     text-align: center;
 }
 
-.paintings-container div {
+.paintings-display div {
     width: 30%;
     display: inline-block;
     margin: 0 5px;
+    margin-bottom: 50px;
 }
 
-.paintings-container img {
+.paintings-display img {
     width: 100%;
-    max-height: 600px;
 }
 
+#senna img {
+    
+}
 
 
