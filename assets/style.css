@@ -214,7 +214,7 @@ footer ul {
 .paintings-display div {
     width: 30%;
     display: inline-block;
-    margin: 0 5px;
+    margin: 50px 5px;
     margin-bottom: 50px;
 }
 
@@ -222,8 +222,8 @@ footer ul {
     width: 100%;
 }
 
-#senna img {
-    
+#kobe {
+    margin-bottom: 50px;
 }
 
 
