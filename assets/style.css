@@ -207,23 +207,10 @@ footer ul {
     transform: scale(0.2);
 }
 
-.paintings-display { 
-    text-align: center;
-}
 
-.paintings-display div {
-    width: 30%;
-    display: inline-block;
-    margin: 50px 5px;
-    margin-bottom: 50px;
-}
 
-.paintings-display img {
-    width: 100%;
-}
 
-#kobe {
-    margin-bottom: 50px;
-}
+
+
 
 
