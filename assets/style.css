@@ -87,7 +87,7 @@ li a {
 }
 
 #about {
-    height: 230px;
+    height: 220px;
 }
 
 p {
@@ -138,6 +138,24 @@ h3:hover {
     height: 550px;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+#box-1, 
+#box-3 {
+    filter: grayscale(50%);
+}
+
+#box-2 {
+    filter: brightness(80%);
+}
+
+#box-1:hover,  
+#box-3:hover {
+    filter: none;
+}
+
+#box-2:hover {
+    filter: brightness(100%);
 }
 
 @keyframes box {
