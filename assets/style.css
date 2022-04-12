@@ -227,7 +227,8 @@ footer ul {
     transform: scale(0.2);
 }
 
-#paintings {
+#paintings,
+#drawings {
     margin: 0 50px;
     margin-top: 20px;
     line-height: 25px;
@@ -247,4 +248,12 @@ footer ul {
 
 #kobe-chester>img {
     width: 60%;
+}
+
+#drawings>img {
+    width: 100%;
+}
+
+#skull {
+    margin-top: 80px;
 }
