@@ -33,7 +33,7 @@ h2 {
     from {
         opacity: 0;
         transform: scale(0.97);
-        
+
     }
 
     to {
@@ -79,7 +79,7 @@ li a {
 
 #menu a:hover {
     border-bottom: 1px solid #fff;
-    
+
 }
 
 .active {
@@ -115,7 +115,7 @@ p {
     display: inline-block;
     margin: 0px 5px;
     width: 30%;
-    background-color:  rgb(74, 74, 74);
+    background-color: rgb(74, 74, 74);
     padding-top: 0px;
 }
 
@@ -129,10 +129,12 @@ h3 {
 }
 
 h3:hover {
-   color: rgb(252, 240, 8);
+    color: rgb(252, 240, 8);
 }
 
-#box-1, #box-2, #box-3 {
+#box-1,
+#box-2,
+#box-3 {
     height: 550px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -144,7 +146,7 @@ h3:hover {
     }
 
     to {
-        box-shadow:  0 5px 10px 5px black;
+        box-shadow: 0 5px 10px 5px black;
     }
 }
 
@@ -207,10 +209,24 @@ footer ul {
     transform: scale(0.2);
 }
 
+#paintings {
+    margin: 0 50px;
+    margin-top: 20px;
+    line-height: 25px;
+    column-count: 3;
+    column-gap: 5px;
+}
 
+#paintings>img {
+    width: 100%;
+}
 
+#kobe-chester {
+    text-align: center;
+    padding: 0;
 
+}
 
-
-
-
+#kobe-chester>img {
+    width: 60%;
+}
