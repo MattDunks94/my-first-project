@@ -228,7 +228,8 @@ footer ul {
 }
 
 #paintings,
-#drawings {
+#drawings, 
+#flash-designs {
     margin: 0 50px;
     margin-top: 20px;
     line-height: 25px;
@@ -236,11 +237,14 @@ footer ul {
     column-gap: 5px;
 }
 
-#paintings>img {
+#paintings>img, 
+#drawings>img,
+#flash-designs>img {
     width: 100%;
 }
 
 #kobe-chester {
+    margin-bottom: 20px;
     text-align: center;
     padding: 0;
 
@@ -256,4 +260,18 @@ footer ul {
 
 #skull {
     margin-top: 80px;
+}
+
+#page-links {
+    width: 50%;
+}
+
+#page-links a {
+    text-decoration: none;
+    color: dodgerblue;
+}
+
+#about a:hover, 
+#page-links a:hover {
+    text-decoration: underline;
 }
