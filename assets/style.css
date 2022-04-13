@@ -258,12 +258,18 @@ footer ul {
     width: 100%;
 }
 
+#drawings,
+#flash-designs {
+    margin-bottom: 20px;
+}
+
 #skull {
     margin-top: 80px;
 }
 
 #page-links {
     width: 50%;
+    text-align: center;
 }
 
 #page-links a {
