@@ -98,6 +98,7 @@ li a {
 
 #about {
     height: 220px;
+    margin-bottom: 10px;
 }
 
 p {
@@ -117,8 +118,11 @@ p {
 /* Gallery Section (index.html) */
 
 #gallery {
-    height: 615px;
+    height: 625px;
+    padding: 10px 0;
 }
+
+
 
 #gallery-container {
     text-align: center;
@@ -155,11 +159,11 @@ h3:hover {
 
 #box-1, 
 #box-3 {
-    filter: grayscale(50%);
+    filter: grayscale(40%);
 }
 
 #box-2 {
-    filter: brightness(80%);
+    filter: brightness(90%);
 }
 
 #box-1:hover,  
@@ -243,9 +247,7 @@ footer ul {
 
 /* paintings, drawings and flash.hmtl Gallery Style */
 
-#paintings,
-#drawings, 
-#flash-designs {
+.gallery-layout {
     margin: 0 50px;
     margin-top: 20px;
     line-height: 25px;
@@ -253,9 +255,7 @@ footer ul {
     column-gap: 5px;
 }
 
-#paintings>img, 
-#drawings>img,
-#flash-designs>img {
+.gallery-layout>img {
     width: 100%;
 }
 
@@ -268,10 +268,6 @@ footer ul {
 
 #kobe-chester>img {
     width: 60%;
-}
-
-#drawings>img {
-    width: 100%;
 }
 
 #drawings,
