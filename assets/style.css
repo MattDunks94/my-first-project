@@ -225,6 +225,10 @@ footer ul {
     list-style: none;
 }
 
+footer li {
+    display: inline;
+}
+
 .social-links {
     text-align: center;
 }
@@ -308,5 +312,37 @@ form {
     width: 50%;
     margin: auto;
     text-align: center;
-    background-color: aqua;
 }
+
+#form {
+    padding: 20px;
+    margin: 0 50px;
+    background-image: url(/assets/images/skull-print-opacity.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.input-text {
+    margin: 10px;
+    padding: 5px 10px;
+    height: 40px;
+    width: 50%;
+    font-family: kumbh sans, sans-serif;
+    font-size: 110%;
+    border-radius: 5px;
+}
+
+#submit {
+    color: #fff;
+    background-color: #0a0a0a;
+    border-radius: 5px;
+    width: 33%;
+    height: 40px;
+}
+
+#submit:hover {
+    color: black;
+    background-color: #fff;
+}
+
