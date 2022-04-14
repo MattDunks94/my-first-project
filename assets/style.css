@@ -14,6 +14,8 @@ h2 {
 
 }
 
+/* Hero Image */
+
 #hero-image {
     border: 4px solid black;
     border-radius: 5px 5px 0 0;
@@ -29,6 +31,8 @@ h2 {
     animation-fill-mode: forwards;
 }
 
+/* Hero Image Animation */
+
 @keyframes cover-photo {
     from {
         opacity: 0;
@@ -41,6 +45,8 @@ h2 {
         transform: scale(1);
     }
 }
+
+/* Navigation Bar */
 
 #menu {
     text-align: center;
@@ -67,6 +73,8 @@ li a {
     animation-duration: 2.4s;
 }
 
+/* Navigation Animation */
+
 @keyframes menu {
     from {
         opacity: 0;
@@ -86,6 +94,8 @@ li a {
     border-bottom: 1px solid #fff;
 }
 
+/* About Section (index.html) */
+
 #about {
     height: 220px;
 }
@@ -103,6 +113,8 @@ p {
     text-decoration: none;
     color: dodgerblue;
 }
+
+/* Gallery Section (index.html) */
 
 #gallery {
     height: 615px;
@@ -159,6 +171,8 @@ h3:hover {
     filter: brightness(100%);
 }
 
+/* Gallery Section Shadow Animation (index.html) */
+
 @keyframes box {
     from {
         box-shadow: none;
@@ -187,6 +201,8 @@ h3:hover {
     background-image: url(/assets/images/tattoo-flash2-cropped.jpg);
 }
 
+/* Logo Section */
+
 #logo {
     text-align: center;
     width: 50%;
@@ -194,6 +210,8 @@ h3:hover {
     margin: auto;
     transform: scale(0.2);
 }
+
+/* Footer Section */
 
 footer {
     margin-top: 50px;
@@ -222,6 +240,8 @@ footer ul {
     border-radius: 4px;
     padding: 2px 0;
 }
+
+/* paintings, drawings and flash.hmtl Gallery Style */
 
 #paintings,
 #drawings, 
@@ -262,6 +282,8 @@ footer ul {
 #skull {
     margin-top: 80px;
 }
+
+/* Page Links Section */
 
 #page-links {
     width: 50%;
