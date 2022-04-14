@@ -59,7 +59,7 @@ h2 {
     border-radius: 0 0 5px 5px;
 }
 
-li {
+#menu li {
     display: inline;
 }
 
@@ -295,4 +295,18 @@ footer ul {
 #about a:hover, 
 #page-links a:hover {
     text-decoration: underline;
+}
+
+/* Contact, Form Section */
+
+#contact-list {
+    margin-left: 50px;
+    font-size: 120%;
+}
+
+form {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    background-color: aqua;
 }
