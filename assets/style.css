@@ -321,6 +321,7 @@ form {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    border-radius: 5px;
 }
 
 .input-text {
