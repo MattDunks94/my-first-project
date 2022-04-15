@@ -10,7 +10,7 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 3px;
     text-decoration: underline;
-    margin-left: 50px;
+    margin: 20px 50px;
 
 }
 
@@ -19,12 +19,13 @@ h2 {
 #hero-image {
     border: 4px solid black;
     border-radius: 5px 5px 0 0;
+    text-align: center;
+    padding: 20px 30px;
 }
 
 #hero-image img {
-    padding: 20px;
-    margin-left: 10px;
-    width: 95%;
+    margin: auto; 
+    width: 100%;
     height: 310px;
     animation-name: cover-photo;
     animation-duration: 2.4s;
@@ -97,8 +98,12 @@ li a {
 /* About Section (index.html) */
 
 #about {
-    height: 220px;
+    height: 200px;
     margin-bottom: 10px;
+}
+
+#about div {
+    margin: 20px 0;
 }
 
 p {
@@ -118,23 +123,22 @@ p {
 /* Gallery Section (index.html) */
 
 #gallery {
+    margin-top: 60px;
     height: 625px;
-    padding: 10px 0;
 }
-
-#gallery h2 {
-    margin-top: 20px;
-}
-
-
 
 #gallery-container {
     text-align: center;
+    
+}
+
+#gallery-container a {
+    text-decoration: none;
 }
 
 .gallery-display {
     display: inline-block;
-    margin: 0px 5px;
+    margin: 0 5px;
     width: 30%;
     background-color: rgb(74, 74, 74);
     padding-top: 0px;
@@ -240,6 +244,7 @@ footer li {
 }
 
 #copyright {
+    font-size: 80%;
     text-align: center;
     margin-top: 10px;
     color: #fff;
@@ -344,4 +349,83 @@ form {
 #submit:hover {
     color: black;
     background-color: #fff;
+}
+
+/* Media Queries */
+
+/* screen size of 1050px wide and down */
+
+@media screen and (max-width: 1050px) {
+
+    #menu a {
+        margin: 0 50px;
+    }
+
+    #gallery {
+        margin-top: 8%;
+    }
+
+    .social-links a {
+        margin: 0 70px;
+    }
+}
+
+/* screen size of 850px wide and down */
+
+@media screen and (max-width: 850px) {
+    #menu a {
+        margin: 0 40px;
+        font-size: 110%;
+    }
+
+    #gallery {
+        margin-top: 15%;
+        height: 580px;
+    }
+
+    .gallery-display {
+        height: 500px;
+    }
+
+    .social-links a {
+        margin: 0 45px;
+    }
+
+    h3 {
+        font-size: 100%;
+        padding: 13px;
+    }
+    
+}
+
+/* screen size of 650px wide and down */
+
+@media screen and (max-width: 650px) {
+    h2 {
+        font-size: 150%;
+    }
+
+    #about p {
+        font-size: 110%;
+        padding: 10px;
+    }
+    
+    #gallery {
+        margin-top: 14%;
+        height: 520px;
+    }
+
+    .gallery-display {
+        height: 450px;
+    }
+    
+    h3 {
+        font-size: 90%;
+        padding: 11px;
+    }
+
+    .social-links a {
+        margin: 0 35px;
+    }
+
 }
