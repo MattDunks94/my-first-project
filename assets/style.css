@@ -24,7 +24,7 @@ h2 {
 }
 
 #hero-image img {
-    margin: auto; 
+    margin: auto;
     width: 100%;
     height: 310px;
     animation-name: cover-photo;
@@ -129,7 +129,7 @@ p {
 
 #gallery-container {
     text-align: center;
-    
+
 }
 
 #gallery-container a {
@@ -370,12 +370,53 @@ form {
     }
 }
 
+/* screen size of 994px wide and down */
+
+@media screen and (max-width: 994px) {
+    #gallery {
+        margin-top: 11%;
+    }
+
+    #page-links {
+        width: 60%;
+    }
+
+    #hero-image {
+        padding: 20px;
+        height: 250px;
+    }
+
+    #hero-image img {
+        height: auto;
+    }
+}
+
+/* screen size of 865px wide and down */
+
+@media screen and (max-width: 865px) {
+    #gallery {
+        margin-top: 13%;
+    }
+
+    #page-links {
+      width: 60%;
+    }
+}
+
 /* screen size of 850px wide and down */
 
 @media screen and (max-width: 850px) {
     #menu a {
         margin: 0 40px;
         font-size: 110%;
+    }
+
+    #hero-image {
+        height: 220px;
+    }
+
+    #hero-image img {
+        height: auto;
     }
 
     #gallery {
@@ -395,12 +436,53 @@ form {
         font-size: 100%;
         padding: 13px;
     }
+
+    #page-links {
+        width: 75%;
+      }
+
+}
+
+/* screen size of 700px wide and down */
+
+@media screen and (max-width: 700px) {
+    #about p {
+        font-size: 110%;
+        padding: 15px;
+    }
+
+    #menu>li a {
+        margin: 20px;
+    }
+
+    #hero-image {
+        padding: 10px;
+    }
+
+    #hero-image img {
+        margin-top: 10px;
+        height: auto;
+    }
     
+    #page-links {
+        width: 80%;
+      }
+
 }
 
 /* screen size of 650px wide and down */
 
 @media screen and (max-width: 650px) {
+    #hero-image {
+        height: 150px;
+        
+    }
+
+    #hero-image img {
+        margin-top: 0;
+        height: 150px;
+    }
+
     h2 {
         font-size: 150%;
     }
@@ -409,7 +491,7 @@ form {
         font-size: 110%;
         padding: 10px;
     }
-    
+
     #gallery {
         margin-top: 14%;
         height: 520px;
@@ -418,7 +500,7 @@ form {
     .gallery-display {
         height: 450px;
     }
-    
+
     h3 {
         font-size: 90%;
         padding: 11px;
@@ -428,4 +510,16 @@ form {
         margin: 0 35px;
     }
 
+    #page-links {
+        width: 85%;
+      }
+
+}
+
+/* screen size of 626px wide and down */
+
+@media screen and (max-width: 626px) {
+    #about {
+        height: 230px;
+    }
 }
