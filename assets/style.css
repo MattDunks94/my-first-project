@@ -401,7 +401,7 @@ form {
     }
 
     #page-links {
-      width: 60%;
+        width: 60%;
     }
 }
 
@@ -441,7 +441,7 @@ form {
 
     #page-links {
         width: 75%;
-      }
+    }
 
 }
 
@@ -465,10 +465,10 @@ form {
         margin-top: 10px;
         height: auto;
     }
-    
+
     #page-links {
         width: 80%;
-      }
+    }
 
 }
 
@@ -477,7 +477,7 @@ form {
 @media screen and (max-width: 650px) {
     #hero-image {
         height: 150px;
-        
+
     }
 
     #hero-image img {
@@ -504,6 +504,7 @@ form {
     }
 
     h3 {
+        letter-spacing: 2px;
         font-size: 90%;
         padding: 11px;
     }
@@ -514,7 +515,12 @@ form {
 
     #page-links {
         width: 85%;
-      }
+    }
+
+    .input-text {
+        font-size: 100%;
+        padding: 5px 5px;
+    }
 
 }
 
@@ -522,6 +528,103 @@ form {
 
 @media screen and (max-width: 626px) {
     #about {
-        height: 230px;
+        height: 200px;
+    }
+
+    #about p {
+        font-size: 100%;
+    }
+
+    p {
+        margin: 10px 25px;
+        font-size: 100%;
+        padding: 10px;
+    }
+
+    .gallery-layout {
+        column-count: 2;
+    }
+
+    #page-links {
+        width: 90%;
+    }
+
+    h2 {
+        font-size: 130%;
+        margin: 10px 25px;
+    }
+}
+
+/* screen size of 500px wide and down */
+
+@media screen and (max-width: 500px) {
+    #hero-image {
+        height: 130px;
+    }
+
+    #hero-image img {
+        height: 130px;
+    }
+
+    #menu {
+        height: 20px;
+        line-height: 15px;
+    }
+
+    #menu a {
+        margin: 0 20px;
+        font-size: 80%;
+    }
+
+    h2 {
+        font-size: 110%;
+    }
+
+
+    #about {
+        height: 170px;
+    }
+
+    #about p {
+        font-size: 85%;
+    }
+
+    p {
+        font-size: 85%;
+    }
+
+    h3 {
+        letter-spacing: 2px;
+        font-size: 75%;
+    }
+
+    .social-links a {
+        font-size: 85%;
+        margin: 0;
+    }
+
+    #contact-list {
+        font-size: 85%;
+    }
+
+    .input-text {
+        margin: 10px auto;
+        padding: 5px 10px;
+        height: 30px;
+        width: 100%;
+        font-size: 85%;
+    }
+
+    #submit {
+        color: #fff;
+        background-color: #0a0a0a;
+        border-radius: 5px;
+        width: 50%;
+        height: 40px;
+    }
+
+    #logo {
+        height: 100px;
+        transform: scale(0.15);
     }
 }
