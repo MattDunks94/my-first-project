@@ -160,6 +160,8 @@ h3:hover {
     color: rgb(252, 240, 8);
 }
 
+/* Gallery Section Filter Effect */
+
 #box-1,
 #box-3 {
     filter: grayscale(40%);
@@ -253,7 +255,7 @@ footer li {
     padding: 2px 0;
 }
 
-/* paintings, drawings and flash.hmtl Gallery Style */
+/* paintings, drawings and flash.hmtl Gallery Structure */
 
 .gallery-layout {
     margin: 0 50px;
