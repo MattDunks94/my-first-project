@@ -543,6 +543,7 @@ form {
 
     .gallery-layout {
         column-count: 2;
+        margin: 0 25px;
     }
 
     #page-links {
@@ -552,6 +553,11 @@ form {
     h2 {
         font-size: 130%;
         margin: 10px 25px;
+    }
+
+    .social-links a {
+        font-size: 100%;
+        margin: 0 25px;
     }
 }
 
