@@ -323,7 +323,7 @@ form {
 #form {
     padding: 20px;
     margin: 0 50px;
-    background-image: url(/assets/images/skull-print-opacity.jpg);
+    background-image: url(/assets/images/skull-print-opacity.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
