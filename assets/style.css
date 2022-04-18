@@ -199,15 +199,15 @@ h3:hover {
 }
 
 #box-1 {
-    background-image: url(/assets/images/ghost-cropped.jpg);
+    background-image: url(/assets/images/ghost-cropped.webp);
 }
 
 #box-2 {
-    background-image: url(/assets/images/dredd-cropped.jpg);
+    background-image: url(/assets/images/dredd-cropped.webp);
 }
 
 #box-3 {
-    background-image: url(/assets/images/tattoo-flash2-cropped.jpg);
+    background-image: url(/assets/images/tattoo-flash2-cropped.webp);
 }
 
 /* Logo Section */
@@ -289,21 +289,21 @@ footer li {
     margin-top: 80px;
 }
 
-/* Page Links Section */
+/* Gallery Links Section */
 
-#page-links {
+#gallery-links {
     width: 50%;
     margin: auto;
     text-align: center;
 }
 
-#page-links a {
+#gallery-links a {
     text-decoration: none;
     color: dodgerblue;
 }
 
 #about a:hover,
-#page-links a:hover {
+#gallery-links a:hover {
     text-decoration: underline;
 }
 
@@ -379,7 +379,7 @@ form {
         margin-top: 11%;
     }
 
-    #page-links {
+    #gallery-links {
         width: 60%;
     }
 
@@ -400,7 +400,7 @@ form {
         margin-top: 13%;
     }
 
-    #page-links {
+    #gallery-links {
         width: 60%;
     }
 }
@@ -439,7 +439,7 @@ form {
         padding: 13px;
     }
 
-    #page-links {
+    #gallery-links {
         width: 75%;
     }
 
@@ -466,7 +466,7 @@ form {
         height: auto;
     }
 
-    #page-links {
+    #gallery-links {
         width: 80%;
     }
 
@@ -513,7 +513,7 @@ form {
         margin: 0 35px;
     }
 
-    #page-links {
+    #gallery-links {
         width: 85%;
     }
 
@@ -546,7 +546,7 @@ form {
         margin: 0 25px;
     }
 
-    #page-links {
+    #gallery-links {
         width: 90%;
     }
 
