@@ -198,6 +198,8 @@ h3:hover {
     animation-fill-mode: forwards;
 }
 
+/* Gallery Background Images */
+
 #box-1 {
     background-image: url(assets/images/ghost-cropped.webp);
 }
