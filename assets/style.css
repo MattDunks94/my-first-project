@@ -42,7 +42,7 @@ h2 {
     }
 
     to {
-        opacity: 100;
+        opacity: 100%;
         transform: scale(1);
     }
 }
@@ -82,7 +82,7 @@ li a {
     }
 
     to {
-        opacity: 100;
+        opacity: 100%;
     }
 }
 
@@ -341,7 +341,7 @@ form {
     padding: 5px 10px;
     height: 40px;
     width: 50%;
-    font-family: kumbh sans, sans-serif;
+    font-family: 'kumbh sans', sans-serif;
     font-size: 110%;
     border-radius: 5px;
 }
