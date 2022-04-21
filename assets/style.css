@@ -269,6 +269,10 @@ footer li {
     width: 100%;
 }
 
+span {
+    font-size: 80%;
+}
+
 #kobe-chester {
     margin-bottom: 20px;
     text-align: center;
