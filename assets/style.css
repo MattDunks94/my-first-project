@@ -650,7 +650,12 @@ form {
     }
 
     #about {
-        height: 185px;
+        height: 180px;
+    }
+
+    #about p {
+        font-size: 80%;
+        padding: 8px;
     }
 
     h3 {
@@ -725,8 +730,8 @@ form {
     }
 
     #about p {
-        font-size: 80%;
         margin: 0 5px;
+        padding: 5px;
     }
 
     p {
