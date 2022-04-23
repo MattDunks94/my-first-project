@@ -17,3 +17,5 @@ Target audience for the site is for art, comic, graphic and tattoo fanatics of a
   <li>The header displays the logo of the artist and the navigation makes it easy for the user to find different sections of the website.</li>
 </ul>
 
+<h3>About Section</h3>
+
