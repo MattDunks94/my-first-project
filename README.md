@@ -57,8 +57,15 @@ Target audience for the site is for art, comic, graphic and tattoo fanatics of a
   <li>All three pages have the same design layout, keeping it consistent was an important factor, creates a sense of identity throughout the website.</li>
 </ul>
 <img src="assets/images/readme-images/paintings-gallery.png">
-
+<img src="assets/images/readme-images/drawings-gallery.png">
 <img src="assets/images/readme-images/tattoo-flash-gallery.png">
 
+### - Gallery Links Section
+<ul>
+  <li>The gallery links section is displayed within the three gallery html.files (paintings, drawings & flash.html), positioned underneath each image gallery.</li>
+  <li>It's purpose is to make it easier for the user to access other galleries when viewing the bottom half of each page. Saves the user having to scroll back up to the navigation section.</li>
+  <li>The links are styled in 'dodgerblue' and with an arrow icon which makes them stand out as a clickable link.</li>
+</ul>
+<img src="assets/images/readme-images/gallery-links.png">
 <a href="https://en.wikipedia.org/wiki/Greg_Staples">Greg Staples Wikipedia</a><br>
 <a href="https://cafans.b-cdn.net/images/Category_4062/subcat_39924/1324.jpg">Judge Dredd vs Alien Original by Greg Staples</a>
