@@ -51,3 +51,14 @@ Target audience for the site is for art, comic, graphic and tattoo fanatics of a
 <img src="assets/images/readme-images/footer-section.png">
 
 ### - Paintings, Drawings & Flash.html 
+<ul>
+  <li>All three files presents a gallery display of Matt Dunkerton's work.</li>
+  <li>Each page has it's own welcome section explaining what the user can expect from each gallery.(Images below)</li>
+  <li>All three pages have the same design layout, keeping it consistent was an important factor, creates a sense of identity throughout the website.</li>
+</ul>
+<img src="assets/images/readme-images/paintings-gallery.png">
+
+<img src="assets/images/readme-images/tattoo-flash-gallery.png">
+
+<a href="https://en.wikipedia.org/wiki/Greg_Staples">Greg Staples Wikipedia</a><br>
+<a href="https://cafans.b-cdn.net/images/Category_4062/subcat_39924/1324.jpg">Judge Dredd vs Alien Original by Greg Staples</a>
