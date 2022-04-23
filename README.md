@@ -30,6 +30,7 @@ Target audience for the site is for art, comic, graphic and tattoo fanatics of a
 ### - Gallery Section
 <ul>
   <li>The gallery section presents three different galleries to the user. Each gallery has it's own page, internal links.</li>
-  <li>All galleries have been styled with a hover effect. This effect highlights what gallery the user is choosing.(as shown in image below)</li>
+  <li>All galleries have been styled with a hover effect. This effect highlights what gallery the user is choosing.(as shown in image below). When hovering over the galleries the brightness is increased and a box-shadow appears, along with the headings color changing from white to yellow.</li>
+  <li>Each sub-heading for each gallery has an icon added. Each icon is relevant to the heading which enables the user to visually understand what each gallery/link consists of.</li>
 </ul>
 <img src="assets/images/readme-images/gallery-section.png">
