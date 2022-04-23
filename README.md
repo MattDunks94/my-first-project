@@ -34,3 +34,20 @@ Target audience for the site is for art, comic, graphic and tattoo fanatics of a
   <li>Each sub-heading for each gallery has an icon added. Each icon is relevant to the heading which enables the user to visually understand what each gallery/link consists of.</li>
 </ul>
 <img src="assets/images/readme-images/gallery-section.png">
+
+### - Logo Section
+<ul>
+  <li>The logo section consists of Matt Dunkerton Art Logo image and is positioned above the footer.</li>
+  <li>This image is also a link to the homepage (index.html). This makes it easier to access the homepage when viewing the bottom half of each page, user doesn't have to scroll back up.</li>
+  <li>This link is displayed on all pages.</li>
+</ul>
+<img src="assets/images/readme-images/logo-section.png">
+
+### - Footer Section
+<ul>
+  <li>The footer section consists of copyright and external social links. These links lead to Facebook, Instagram and Twitter.</li>
+  <li>Each link has it's relevant social media icon so the user knows what site they have access to.</li>
+</ul>
+<img src="assets/images/readme-images/footer-section.png">
+
+### - Paintings, Drawings & Flash.html 
