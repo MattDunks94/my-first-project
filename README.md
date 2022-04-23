@@ -26,3 +26,10 @@ Target audience for the site is for art, comic, graphic and tattoo fanatics of a
   <li>The text is easily readable due to the contrasting colors used (black, grey #0a0a0a15). The grey background emphasises the about section, acts as a seperator from other sections.</li>
 </ul>
 <img src="assets/images/readme-images/about-section.png">
+
+### - Gallery Section
+<ul>
+  <li>The gallery section presents three different galleries to the user. Each gallery has it's own page, internal links.</li>
+  <li>All galleries have been styled with a hover effect. This effect highlights what gallery the user is choosing.(as shown in image below)</li>
+</ul>
+<img src="assets/images/readme-images/gallery-section.png">
