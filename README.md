@@ -68,4 +68,6 @@ Target audience for the site is for art, comic, graphic and tattoo fanatics of a
 </ul>
 <img src="assets/images/readme-images/gallery-links.png">
 <a href="https://en.wikipedia.org/wiki/Greg_Staples">Greg Staples Wikipedia</a><br>
-<a href="https://cafans.b-cdn.net/images/Category_4062/subcat_39924/1324.jpg">Judge Dredd vs Alien Original by Greg Staples</a>
+<a href=https://www.gregstaples.com>Greg Staples Art Website</a><br>
+<a href="https://cafans.b-cdn.net/images/Category_4062/subcat_39924/1324.jpg">Judge Dredd vs Alien Original by Greg Staples</a><br>
+<a href="https://www.instagram.com/p/BuWX9UCBY7R/">Joker Original by Greg Staples</a>
