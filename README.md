@@ -82,6 +82,24 @@ Target audience for the site is for art, comic, graphic and tattoo fanatics of a
   <li>Video section. Wanted to add video/media to the site but was unable to accomplish this due to technical issues.</li>
 </ul>
 
+### - Testing
+
+
+### - Validator Testing
+<ul>
+  <li>HTML</li>
+  <ul>
+      <li>No errors or warnings returned when passing through the official <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fmattdunks94.github.io%2Fmy-first-project%2F">W3C Validator</a>.</li>
+  </ul>
+</ul>
+
+<ul>
+  <li>CSS</li>
+  <ul>
+      <li>No errors or warnings returned when passing through the official <a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmattdunks94.github.io%2Fmy-first-project%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en">(Jigsaw) Validator</a>.</li>
+  </ul>
+</ul>
+  
 <a href="https://en.wikipedia.org/wiki/Greg_Staples">Greg Staples Wikipedia</a><br>
 <a href=https://www.gregstaples.com>Greg Staples Art Website</a><br>
 <a href="https://cafans.b-cdn.net/images/Category_4062/subcat_39924/1324.jpg">Judge Dredd vs Alien Original by Greg Staples</a><br>
