@@ -67,6 +67,21 @@ Target audience for the site is for art, comic, graphic and tattoo fanatics of a
   <li>The links are styled in 'dodgerblue' and with an arrow icon which makes them stand out as a clickable link.</li>
 </ul>
 <img src="assets/images/readme-images/gallery-links.png">
+
+### - Contact Form Section
+<ul>
+  <li>The contact section consists of a form. This form can be filled out by the user to get into touch with the artist.</li>
+  <li>Each input has a placeholder, so the user knows what details to provide. Inputs include first name, last name, Email, subject and a message, text-area for their enquiry.</li>
+  <li>The form is visually accessible. The inputs are white with black text and the submit is the opposite. The submit button also has a hover effect where the colors of the button swap over.</li>
+  <li>It also has a background-image which allows the form to stand out.</li>
+</ul>
+<img src="assets/images/readme-images/contact-form.png">
+
+### - Features For The Future
+<ul>
+  <li>Video section. Wanted to add video/media to the site but was unable to accomplish this due to technical issues.</li>
+</ul>
+
 <a href="https://en.wikipedia.org/wiki/Greg_Staples">Greg Staples Wikipedia</a><br>
 <a href=https://www.gregstaples.com>Greg Staples Art Website</a><br>
 <a href="https://cafans.b-cdn.net/images/Category_4062/subcat_39924/1324.jpg">Judge Dredd vs Alien Original by Greg Staples</a><br>
