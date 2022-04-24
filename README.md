@@ -83,9 +83,26 @@ Target audience for the site is for art, comic, graphic and tattoo fanatics of a
 </ul>
 
 ### - Testing
-
+<ul>
+  <li>Browser Testing:</li>
+  <ul>
+    <li>The website was tested on Google Chrome and Safari web browsers.</li>
+  </ul>
+  <li>Device Testing:</li>
+  <ul>
+    <li>The project was tested on a variety of devices. These devices include iPhone (7, 10, SE), Google Nest Hub 2nd gen, Macbook Pro and iPad Air.</li>
+  </ul>
+    <li>Hero-image & Navigation Menu:</li>
+  <ul>
+    <li>Hero-image is the main logo for the site and is also a clickable link back to the homepage (index.html). The link serves it's purpose and works on all html.files.</li>
+    <li>The navigation menu provides the user with four site links. These links lead to sections of a page and different pages. All links lead to the desired location on the site.</li>
+  </ul>
+  <li></li>
+  <li></li>
+</ul>
 
 ### - Validator Testing
+Official validator services were used to validate all pages of the project to ensure there were no syntax errors/warnings. 
 <ul>
   <li>HTML</li>
   <ul>
