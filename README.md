@@ -122,9 +122,80 @@ Official validator services were used to validate all pages of the project to en
   <ul>
     <li>I was able to overcome this problem by using the 'onerror' attribute and inserting .jpg image file versions of all images (originals are in .webp format). But I removed this code as it included the use of Javascript.</li>
   </ul>
+  <li>Had issues with 'about-section' and 'gallery-section' within index.html when applying responsive design. Never seemed to keep their distance from each other when screen size decreased. Had to increase 'height' of section and/or 'margin' for most media-queries to create clearence.</li>
+  <ul>
+    <li>This problem causes the two sections to have an inconsistant margin between them.</li>
+  </ul>
+</ul>
+
+## User Experience (UX)
+
+### - Design
+<ul>
+  <li><strong>Colour Scheme</strong></li>
+  <ul>
+    <li>The two main colours used throughout the site are black and white.</li>
+  </ul><br>
+  
+  <li><strong>Typography</strong></li>
+  <ul>
+    <li>Kumbh Sans is the main font used for the project, imported from Google Fonts. Sans Serif as the fallback font in case of any issues with loading the first choice font. Kumbh sans is a stylish modern font and is easily readable.</li>
+  </ul><br>
+  
+  <li><strong>Imagery</strong></li>
+  <ul>
+    <li>Being an art website, imagery is very important. All logo images are created by myself using editing software. They are designed to look appealing, modern and they relate to the project.</li>
+    <li>All gallery images were also edited. Elements such as contrast, brightness and color levels were adjusted to really bring out the true colors of the work presented.</li>
+  </ul>
+</ul>
+
+## Features
+
+<ul>
+  <li>Responsive on all devices</li>
+  <li>Interactive elements</li>
+  <li>Animation effects</li>
+</ul>
+
+## Technologies Used
+
+### - Languages Used
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/HTML5">HTML5</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/CSS">CSS3</a></li>
+</ul>
+
+### - Frameworks, Libraries & Programs Used
+<ul>
+  <li><a href="https://fonts.google.com/">Google Fonts</a></li>
+  <ul>
+    <li>Google Fonts was used to import the 'Kumbh Sans' font into the style.css file.</li>
+  </ul>
+  <li><a href="https://fontawesome.com/">Font Awesome</a></li>
+  <ul>
+    <li>Font Awesome was used to add icons to the website for UX purposes.</li>
+  </ul>
+    <li><a href="https://git-scm.com/">Git</a></li>
+  <ul>
+    <li>Git was used for version control and using the Gitpod terminal to commit and push to GitHub.</li>
+  </ul>
+  <li><a href="https://github.com/">GitHub</a></li>
+  <ul>
+    <li>GitHub is used to store the projects code after being pushed from Git.</li>
+  </ul>
+  <li><a href="https://www.pixelmator.com/pro/">Pixelmator</a></li>
+    <ul>
+    <li>Pixelmator was used to create logo, hero-image and editing, resizing of photos used for the website.</li>
+  </ul>
 </ul>
 
 ## Credits
+### - Content
+<ul>
+  <li>All content was written by the developer (Matt Dunkerton).</li>
+</ul>
+
+### - Media
 <ul>
   <li>Greg Staples original artwork that I covered during my art studies:</li>
   <ul>
