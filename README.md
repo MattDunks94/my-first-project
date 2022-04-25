@@ -121,10 +121,10 @@ Official validator services were used to validate all pages of the project to en
   <li>When testing on an iPad Air, the images did not load. The alt name of the images and a border was all that was present on this device. This was because the device model is too old and does not support the latest ios updates.</li><br>
   <ul>
     <li>I was able to overcome this problem by using the 'onerror' attribute and inserting .jpg image file versions of all images (originals are in .webp format). But I removed this code as it included the use of Javascript.</li>
-  </ul>
-  <li>Had issues with 'about-section' and 'gallery-section' within index.html when applying responsive design. Never seemed to keep their distance from each other when screen size decreased. Had to increase 'height' of section and/or 'margin' for most media-queries to create clearence.</li>
+  </ul><br>
+  <li>Had issues with 'about-section' and 'gallery-section' within index.html when applying responsive design. Never seemed to keep their distance from each other when screen size decreased. Had to increase 'height' of section and/or 'margin' for most media-queries to create clearence.</li><br>
   <ul>
-    <li>This problem causes the two sections to have an inconsistant margin between them.</li>
+    <li>This problem causes the two sections to have an inconsistant margin between them when screen size decreases.</li>
   </ul>
 </ul>
 
