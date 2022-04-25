@@ -82,7 +82,7 @@ Target audience for the site is for art, comic, graphic and tattoo fanatics of a
   <li>Video section. Wanted to add video/media to the site but was unable to accomplish this due to technical issues.</li>
 </ul>
 
-### - Testing
+## Testing
 A variety of tests were carried out to make sure my project operated appropriately.
 <ul>
   <li><strong>Browser Testing:</strong></li>
@@ -91,8 +91,8 @@ A variety of tests were carried out to make sure my project operated appropriate
   </ul><br>
   <li><strong>Device Testing:</strong></li>
   <ul>
-    <li>The project was tested on a variety of devices. These devices include iPhone (7, 10, SE), Google Nest Hub 2nd gen, Macbook Pro and iPad Air.</li>
-    <li>Family was asked if they experienced any bugs/faults with the website when viewed on their device. Received good feedback.</li>
+    <li>The project was tested on a variety of devices. These devices include iPhone (7, 10, SE), Google Nest Hub 2nd gen, Macbook Pro and iPad Air (1st gen).</li>
+    <li>Family was asked if they experienced any bugs/faults with the website when viewed on their device.</li>
   </ul><br>
   <li><strong>Navigation Testing:</strong></li>
   <ul>
@@ -115,8 +115,20 @@ Official validator services were used to validate all pages of the project to en
       <li>No errors or warnings returned when passing through the official <a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmattdunks94.github.io%2Fmy-first-project%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en">(Jigsaw) Validator</a>.</li>
   </ul>
 </ul>
-  
-<a href="https://en.wikipedia.org/wiki/Greg_Staples">Greg Staples Wikipedia</a><br>
-<a href=https://www.gregstaples.com>Greg Staples Art Website</a><br>
-<a href="https://cafans.b-cdn.net/images/Category_4062/subcat_39924/1324.jpg">Judge Dredd vs Alien Original by Greg Staples</a><br>
-<a href="https://www.instagram.com/p/BuWX9UCBY7R/">Joker Original by Greg Staples</a>
+
+### - Known Bugs
+<ul>
+  <li>When testing on an iPad Air, the images did not load. The alt name of the images and a border was all that was present on this device. This was because the device model is too old and does not support the latest ios updates.</li><br>
+  <ul>
+    <li>I was able to overcome this problem by using the 'onerror' attribute and inserting .jpg image file versions of all images (originals are in .webp format). But I removed this code as it included the use of Javascript.</li>
+  </ul>
+</ul>
+
+## Credits
+<ul>
+  <li>Greg Staples original artwork that I covered during my art studies:</li>
+  <ul>
+    <li><a href="https://cafans.b-cdn.net/images/Category_4062/subcat_39924/1324.jpg">Judge Dredd vs Alien Original by Greg Staples</a></li>
+    <li><a href="https://www.instagram.com/p/BuWX9UCBY7R/">Joker Original by Greg Staples</a></li>
+  </ul>
+</ul>
