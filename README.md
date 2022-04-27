@@ -80,6 +80,7 @@ Target audience for the site is for art, comic, graphic and tattoo fanatics of a
 ### - Features For The Future
 <ul>
   <li>Video section. Wanted to add video/media to the site but was unable to accomplish this due to technical issues.</li>
+  <li>Art exhibition section. Add exhibition event calendar including date, times, prices and location of event.</li>
 </ul>
 
 ## Testing
@@ -103,14 +104,14 @@ A variety of tests were carried out to make sure my project operated appropriate
 ### - Validator Testing
 Official validator services were used to validate all pages of the project to ensure there were no syntax errors/warnings. 
 <ul>
-  <li>HTML</li>
+  <li><strong>HTML</strong></li>
   <ul>
       <li>No errors or warnings returned when passing through the official <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fmattdunks94.github.io%2Fmy-first-project%2F">W3C Validator</a>.</li>
   </ul>
 </ul>
 
 <ul>
-  <li>CSS</li>
+  <li><strong>CSS</strong></li>
   <ul>
       <li>No errors or warnings returned when passing through the official <a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmattdunks94.github.io%2Fmy-first-project%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en">(Jigsaw) Validator</a>.</li>
   </ul>
@@ -193,6 +194,7 @@ Official validator services were used to validate all pages of the project to en
 ### - Content
 <ul>
   <li>All content was written by the developer (Matt Dunkerton).</li>
+  <li>I did find inspiration for the contact form through another artist, <a href="https://www.albrightillustration.com/contact">Brad Albright</a>.</li>
 </ul>
 
 ### - Media
